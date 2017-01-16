@@ -1,0 +1,29 @@
+p {
+    box-sizing: border-box;
+    border-left: solid blue;
+    padding-left: 20px;
+margin-left: auto;
+margin-right: auto;
+width: 1000px;
+
+
+}
+
+
+h1 {
+    margin-left: 80px;
+}
+
+
+p::first-letter {
+    font-size: 1.5em;
+    float: left;
+}
+
+.box {
+    
+height: 50px;
+background-color: grey;
+margin: 30px;
+border-radius: 10px;
+}

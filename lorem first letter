@@ -1,0 +1,39 @@
+  <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>title</title>
+    </head>
+
+    <link rel="stylesheet" href="styles.css">
+    <body>
+        <div class="box">
+            
+        </div>
+        <h1>page content</h1>
+        <div>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ita fit cum gravior, tum etiam splendidior oratio. Quae fere omnia appellantur uno ingenii nomine, easque virtutes qui habent, ingeniosi vocantur. Universa enim illorum ratione cum tota vestra confligendum puto. Sint ista Graecorum; Tu autem negas fortem esse quemquam posse, qui dolorem malum putet. Duo Reges: constructio interrete. </p>
+
+<p>Qua tu etiam inprudens utebare non numquam. Scientiam pollicentur, quam non erat mirum sapientiae cupido patria esse cariorem. Quae cum ita sint, effectum est nihil esse malum, quod turpe non sit. Sed quanta sit alias, nunc tantum possitne esse tanta. </p>
+
+<p>Eadem nunc mea adversum te oratio est. Non igitur potestis voluptate omnia dirigentes aut tueri aut retinere virtutem. Qui autem esse poteris, nisi te amor ipse ceperit? Partim cursu et peragratione laetantur, congregatione aliae coetum quodam modo civitatis imitantur; </p>
+
+<p>Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Aliter homines, aliter philosophos loqui putas oportere? Non minor, inquit, voluptas percipitur ex vilissimis rebus quam ex pretiosissimis. Compensabatur, inquit, cum summis doloribus laetitia. Hinc ceteri particulas arripere conati suam quisque videro voluit afferre sententiam. Nos vero, inquit ille; </p>
+
+<p>Ut aliquid scire se gaudeant? Illud mihi a te nimium festinanter dictum videtur, sapientis omnis esse semper beatos; Isto modo ne improbos quidem, si essent boni viri. Si quae forte-possumus. </p>
+
+
+        </div>
+
+        <div>
+            
+        </div>
+        <div>
+            
+        </div>
+        <div>
+            
+        </div>
+
+    </body>
+    </html>
